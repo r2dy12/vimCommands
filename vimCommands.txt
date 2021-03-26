@@ -1,0 +1,31 @@
+:set number 			Set line 
+
+$ 						Skip to end of line
+^						Skip to first character of line
+H						jump to top of screen
+L 						Jump to bottom of screen
+
+StartNum, EndNum < 		Indent text to the left 
+StartNum, EndNum >		Index text to right
+
+dd						Delete line
+dw 						Delete Word
+
+u						Undo
+R						Redo
+
+
+:e 						Open file
+:w 						write
+:q!						Quit and do not save
+
+
+#### TO INSERT INFRONT OF TEXT ####
+- ctrl - v 				enter visual mode
+- highlight text using arrows
+- shift - i				insert text to change
+- escape				wait one second 
+
+
+
+
